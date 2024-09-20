@@ -1,5 +1,5 @@
 아래를 실습한 내용  
-- 모두를 위한 머신러닝/딥러닝 강의 (Deep Learning Zero to All) > 시즌 RL - Deep Reinforcement Learning
+- 모두를 위한 머신러닝/딥러닝 강의 (Deep Learning Zero to All) > 시즌 RL - Deep Reinforcement Learning  
 https://hunkim.github.io/ml/ <br><br>
 
 실습 환경  
