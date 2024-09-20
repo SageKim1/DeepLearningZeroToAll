@@ -4,7 +4,7 @@ https://hunkim.github.io/ml/ <br><br>
 
 실습 환경  
 - MacBook Air (Apple M1 16GB / macOs: Sonoma 14.6.1)  
-- Anaconda 가상환경 / Tensorflow / OpenAI Gym / jupyter notebook <br><br>
+- Anaconda 가상환경 / Tensorflow / OpenAI Gym / jupyter notebook
 - Python 3.12.4
 
 명령어
