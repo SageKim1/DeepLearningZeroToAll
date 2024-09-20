@@ -7,9 +7,9 @@ https://hunkim.github.io/ml/ <br><br>
 - Anaconda 가상환경 / Tensorflow / OpenAI Gym / jupyter notebook
 - Python 3.12.4 <br><br>
 
-명령어
-brew install swig
-pip install box2d-py
+명령어 <br>
+brew install swig <br>
+pip install box2d-py <br>
 pip install pygame opencv-python moviepy pytest box2d-py mujoco mujoco-py <br><br>
 
 pip install
