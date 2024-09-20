@@ -5,12 +5,12 @@ https://hunkim.github.io/ml/ <br><br>
 실습 환경  
 - MacBook Air (Apple M1 16GB / macOs: Sonoma 14.6.1)  
 - Anaconda 가상환경 / Tensorflow / OpenAI Gym / jupyter notebook
-- Python 3.12.4
+- Python 3.12.4 <br><br>
 
 명령어
 brew install swig
 pip install box2d-py
-pip install pygame opencv-python moviepy pytest box2d-py mujoco mujoco-py
+pip install pygame opencv-python moviepy pytest box2d-py mujoco mujoco-py <br><br>
 
 pip install
 - tensorflow, cmake, gym, gym --upgrade, 'gym[all]', readchar
